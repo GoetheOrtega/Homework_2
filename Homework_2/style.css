@@ -1,0 +1,83 @@
+{
+  margin: 0 ;
+padding: 0;
+box-sizing: border-box;
+}
+.form-register {
+  width: 400px;
+  background: #4183a9;
+  border-radius:8px;
+  padding: 20px 40px;
+  box-shadow: aquamarine;
+  margin: 180px auto auto;
+}
+.form-register h4{
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.controls{
+  width: 100%;
+  background: #232370;
+  padding: 10px;
+  margin: 12px 0 ;
+}
+.bottom{
+  width: 100%;
+  background: #030354;
+  font-size: 12px;
+  padding: 10px;
+  margin: 12px 0;
+}
+.controls{
+  width: 100%;
+  background: #9eb8d2;
+  padding: 10px;
+  margin: 12px 0 ;
+}
+body{
+  background-image: url("https://us.123rf.com/450wm/asamask92/asamask921609/asamask92160900033/62131763-blanco-azul-del-agua-fondo-degradado-ilustraci%C3%B3n-vector.jpg?ver=6") ;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.controles {
+  width: 50%;
+  background: #9eb8d2;
+  padding: 10px;
+  margin: auto;
+}
+.controles {
+  width:50%;
+  background: #9eb8d2;
+  padding: 10px;
+  margin: auto;
+}
+.box {
+  width: 200px;
+  background: #4183a9;
+  border-radius:8px;
+  padding: 20px 40px;
+  box-shadow: aquamarine;
+  margin: 180px auto auto;
+  position: relative;
+
+
+}.Login h1{
+   font-size: 15px;
+   margin-bottom: 15px;
+
+ }
+ .form-register A {
+   width: 50%;
+   background: #6389b2;
+   padding: 10px;
+   margin: 12px 0;
+   border-radius: 8px;
+   font-size: 12px;
+
+ }
+
+
+
+
